@@ -1,16 +1,11 @@
 # ids_getx
 
-A new Flutter project.
+Flutter project involving GetX, Dio as API call service, and kejar.id folder structure.
 
-## Getting Started
+## Documentation
 
-This project is a starting point for a Flutter application.
+List photo view:
+![image](https://github.com/user-attachments/assets/9b478f4d-3fc1-475e-8c8d-ac5f1c5cf091)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Detail photo view:
+![image](https://github.com/user-attachments/assets/c77a41a9-63dc-4958-9d9e-32d3c397decc)
